@@ -44,7 +44,7 @@
             hslua-objectorientation.source = "2.3.0";
             hslua-classes.source = "2.3.0";
             hslua-aeson.source = "2.3.0.1";
-            hslua-packaging.source = "2.3.0.1";
+            hslua-packaging.source = "2.3.0";
             tls.source = "1.7.0";
           };
           settings = {
