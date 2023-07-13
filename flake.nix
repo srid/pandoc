@@ -48,6 +48,7 @@
             hslua-module-system.source = "1.1.0.1";
             hslua-module-text.source = "1.1.0.1";
             hslua-module-version.source = "1.1.0";
+            hslua-module-path.source = "1.1.0";
             tls.source = "1.7.0";
           };
           settings = {
