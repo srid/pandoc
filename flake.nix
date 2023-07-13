@@ -39,6 +39,10 @@
             hslua-core.source = "2.3.1";
             lua.source = "2.3.1";
             tasty-hslua.source = "1.1.0";
+            tasty-lua.source = "1.1.0";
+            hslua-marshalling.source = "2.3.0";
+            hslua-objectorientation.source = "2.3.0";
+            hslua-classes.source = "2.3.0";
           };
           settings = {
             # Cabal overrides of all packages go here.
