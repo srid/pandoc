@@ -43,6 +43,8 @@
             hslua-marshalling.source = "2.3.0";
             hslua-objectorientation.source = "2.3.0";
             hslua-classes.source = "2.3.0";
+            hslua-aeson.source = "2.3.0.1";
+            tls.source = "1.7.0";
           };
           settings = {
             # Cabal overrides of all packages go here.
