@@ -38,6 +38,7 @@
             hslua-repl.source = "0.1.1";
             hslua-core.source = "2.3.1";
             lua.source = "2.3.1";
+            tasty-hslua.source = "1.1.0";
           };
           settings = {
             # Cabal overrides of all packages go here.
