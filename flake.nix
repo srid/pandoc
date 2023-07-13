@@ -45,6 +45,8 @@
             hslua-classes.source = "2.3.0";
             hslua-aeson.source = "2.3.0.1";
             hslua-packaging.source = "2.3.0";
+            hslua-module-system.source = "1.1.0.1";
+            hslua-module-text.source = "1.1.0.1";
             tls.source = "1.7.0";
           };
           settings = {
